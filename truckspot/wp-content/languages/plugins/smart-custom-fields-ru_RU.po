@@ -1,0 +1,388 @@
+# Translation of Plugins - Smart Custom Fields - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Smart Custom Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-03 20:19:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Smart Custom Fields - Stable (latest release)\n"
+
+#: classes/fields/class.field-message.php:21
+#: classes/fields/class.field-message.php:68
+msgid "Message"
+msgstr "Сообщение"
+
+#: classes/fields/class.field-wysiwyg.php:107
+msgid "Visual"
+msgstr "Визуально"
+
+#: classes/fields/class.field-related-terms.php:24
+msgid "Related Terms"
+msgstr "Связанные термины"
+
+#: classes/fields/class.field-related-posts.php:24
+msgid "Related Posts"
+msgstr "Связанные записи"
+
+#: classes/fields/class.field-related-posts.php:289
+#: classes/fields/class.field-related-terms.php:263
+msgid "Selectable number"
+msgstr "Максимальное количество выбираемых элементов"
+
+#: classes/fields/class.field-radio.php:94
+#: classes/fields/class.field-select.php:90
+#: classes/fields/class.field-check.php:95
+msgid "If you want to separate the key and the value, enter as follows: key => value"
+msgstr "Если вы хотите сделать ключ и значение отдельными, то введите их в формате key => value."
+
+#: classes/fields/class.field-radio.php:127
+#: classes/fields/class.field-select.php:103
+#: classes/fields/class.field-colorpicker.php:116
+#: classes/fields/class.field-datetime-picker.php:236
+#: classes/fields/class.field-related-posts.php:297
+#: classes/fields/class.field-file.php:121
+#: classes/fields/class.field-related-terms.php:271
+#: classes/fields/class.field-datepicker.php:200
+#: classes/fields/class.field-wysiwyg.php:132
+#: classes/fields/class.field-text.php:77
+#: classes/fields/class.field-boolean.php:130
+#: classes/fields/class.field-image.php:116
+#: classes/fields/class.field-check.php:128
+#: classes/fields/class.field-textarea.php:90
+msgid "Instruction"
+msgstr "Инструкция"
+
+#: classes/controller/class.settings.php:435
+msgid "Options pages"
+msgstr "Страницы настроек"
+
+#: classes/controller/class.settings.php:188
+msgid "Display conditions ( Options page )"
+msgstr "Условия отображения (страница настроек)"
+
+#: classes/controller/class.option.php:57
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: classes/fields/class.field-textarea.php:71
+msgid "Rows"
+msgstr "Строки"
+
+#. Author URI of the plugin
+msgid "https://2inc.org"
+msgstr "https://2inc.org"
+
+#. Author of the plugin
+msgid "inc2734"
+msgstr "inc2734"
+
+#. Description of the plugin
+msgid "Smart Custom Fields is a simple plugin that management custom fields."
+msgstr "Smart Custom Fields - это простой плагин для управления произвольными полями."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/inc2734/smart-custom-fields/"
+msgstr "https://github.com/inc2734/smart-custom-fields/"
+
+#: smart-custom-fields.php:188
+msgid "No Fields found in Trash."
+msgstr "В корзине полей нет."
+
+#: smart-custom-fields.php:187
+msgid "No Fields found."
+msgstr "Полей нет."
+
+#: smart-custom-fields.php:186
+msgid "Parent Fields:"
+msgstr "Родительские поля:"
+
+#: smart-custom-fields.php:185
+msgid "Search Fields"
+msgstr "Рубрики поиска"
+
+#: smart-custom-fields.php:184
+msgid "All Fields"
+msgstr "Все поля"
+
+#: smart-custom-fields.php:183
+msgid "View Field"
+msgstr "Посмотреть поле"
+
+#: smart-custom-fields.php:182
+msgid "Edit Field"
+msgstr "Править поле"
+
+#: smart-custom-fields.php:181
+msgid "New Field"
+msgstr "Новое поле"
+
+#: smart-custom-fields.php:179 smart-custom-fields.php:180
+#: smart-custom-fields.php:226 smart-custom-fields.php:227
+msgid "Add New"
+msgstr "Добавить новое"
+
+#. Plugin Name of the plugin
+#: classes/models/class.revisions.php:128 smart-custom-fields.php:176
+#: smart-custom-fields.php:177 smart-custom-fields.php:178
+msgid "Smart Custom Fields"
+msgstr "Smart Custom Fields"
+
+#: classes/models/class.group.php:135
+msgid "Group name"
+msgstr "Имя группы"
+
+#: classes/models/class.group.php:130
+msgid "Repeat"
+msgstr "Повтор"
+
+#: classes/models/class.abstract-field-base.php:136
+msgid "Label"
+msgstr "Имя"
+
+#: classes/models/class.abstract-field-base.php:120
+msgid "Name"
+msgstr "Ключ"
+
+#: classes/fields/class.field-wysiwyg.php:162
+#: classes/fields/class.field-wysiwyg.php:163
+msgid "Add Media"
+msgstr "Добавить медиа"
+
+#: classes/fields/class.field-wysiwyg.php:26
+msgid "Wysiwyg"
+msgstr "Визуальный редактор"
+
+#: classes/fields/class.field-textarea.php:21
+msgid "Textarea"
+msgstr "Область текста"
+
+#: classes/fields/class.field-wysiwyg.php:108
+#: classes/fields/class.field-text.php:21
+msgid "Text"
+msgstr "Текст"
+
+#: classes/fields/class.field-select.php:21
+msgid "Select"
+msgstr "Выпадающий список"
+
+#: classes/controller/class.settings.php:145
+#: classes/fields/class.field-related-posts.php:243
+#: classes/fields/class.field-related-terms.php:220
+msgid "Load more"
+msgstr "Загрузить еще"
+
+#: classes/fields/class.field-related-posts.php:239
+#: classes/fields/class.field-related-terms.php:216
+msgid "Search..."
+msgstr "Поиск…"
+
+#: classes/fields/class.field-radio.php:21
+msgid "Radio"
+msgstr "Радио-кнопка"
+
+#: classes/fields/class.field-image.php:133
+msgid "Preview Size"
+msgstr "Размер предпросмотра"
+
+#: classes/fields/class.field-image.php:94
+msgid "Image Select"
+msgstr "Выбор изображения"
+
+#: classes/fields/class.field-image.php:21
+msgid "Image"
+msgstr "Изображение"
+
+#: classes/fields/class.field-file.php:100
+msgid "File Select"
+msgstr "Выбор файла"
+
+#: classes/fields/class.field-file.php:51
+#: classes/fields/class.field-image.php:52
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/fields/class.field-file.php:21
+msgid "File"
+msgstr "Файл"
+
+#: classes/fields/class.field-datetime-picker.php:202
+#: classes/fields/class.field-datepicker.php:180
+msgid "Min Date"
+msgstr "Минимальная дата"
+
+#: classes/fields/class.field-datepicker.php:168
+#: classes/fields/class.field-datepicker.php:188
+msgid "e.g +1m +1w"
+msgstr "например +1m +1w"
+
+#: classes/fields/class.field-datetime-picker.php:181
+#: classes/fields/class.field-datepicker.php:160
+msgid "Max Date"
+msgstr "Максимальная дата"
+
+#: classes/fields/class.field-datepicker.php:148
+msgid "e.g dd/mm/yy"
+msgstr "например dd/mm/yy"
+
+#: classes/fields/class.field-datetime-picker.php:156
+#: classes/fields/class.field-datepicker.php:140
+msgid "Date Format"
+msgstr "Формат данных"
+
+#: classes/fields/class.field-datepicker.php:29
+msgid "Date picker"
+msgstr "Выбор даты"
+
+#: classes/fields/class.field-colorpicker.php:29
+msgid "Color picker"
+msgstr "Выбор цвета"
+
+#: classes/fields/class.field-radio.php:103
+#: classes/fields/class.field-check.php:104
+msgid "vertical"
+msgstr "вертикально"
+
+#: classes/fields/class.field-radio.php:102
+#: classes/fields/class.field-check.php:103
+msgid "horizontal"
+msgstr "горизонтально"
+
+#: classes/fields/class.field-radio.php:98
+#: classes/fields/class.field-check.php:99
+msgid "Display Direction"
+msgstr "Вариант отображения"
+
+#: classes/fields/class.field-radio.php:88
+#: classes/fields/class.field-select.php:84
+#: classes/fields/class.field-check.php:89
+msgid "Choices"
+msgstr "Варианты выбора"
+
+#: classes/fields/class.field-check.php:21
+msgid "Check"
+msgstr "Флажки"
+
+#: classes/fields/class.field-radio.php:134
+#: classes/fields/class.field-select.php:110
+#: classes/fields/class.field-colorpicker.php:123
+#: classes/fields/class.field-datetime-picker.php:243
+#: classes/fields/class.field-related-posts.php:304
+#: classes/fields/class.field-file.php:128
+#: classes/fields/class.field-related-terms.php:278
+#: classes/fields/class.field-datepicker.php:207
+#: classes/fields/class.field-wysiwyg.php:139
+#: classes/fields/class.field-text.php:84
+#: classes/fields/class.field-message.php:77
+#: classes/fields/class.field-boolean.php:137
+#: classes/fields/class.field-image.php:123
+#: classes/fields/class.field-check.php:135
+#: classes/fields/class.field-textarea.php:97
+msgid "Notes"
+msgstr "Заметки"
+
+#: classes/fields/class.field-boolean.php:120
+msgid "FALSE Label"
+msgstr "Текст радио-кнопки (false)"
+
+#: classes/fields/class.field-boolean.php:110
+msgid "TRUE Label"
+msgstr "Текст радио-кнопки (true)"
+
+#: classes/fields/class.field-radio.php:118
+#: classes/fields/class.field-select.php:94
+#: classes/fields/class.field-colorpicker.php:107
+#: classes/fields/class.field-datepicker.php:130
+#: classes/fields/class.field-wysiwyg.php:123
+#: classes/fields/class.field-text.php:68
+#: classes/fields/class.field-boolean.php:85
+#: classes/fields/class.field-check.php:119
+#: classes/fields/class.field-textarea.php:81
+msgid "Default"
+msgstr "Значение по умолчанию"
+
+#: classes/fields/class.field-boolean.php:39
+msgid "No"
+msgstr "Нет"
+
+#: classes/fields/class.field-boolean.php:38
+msgid "Yes"
+msgstr "Да"
+
+#: classes/fields/class.field-boolean.php:23
+msgid "Boolean"
+msgstr "Логический"
+
+#: classes/controller/class.settings.php:411
+#: classes/fields/class.field-related-terms.php:240
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: classes/controller/class.settings.php:382
+msgid "Roles"
+msgstr "Роли"
+
+#: classes/controller/class.settings.php:321
+#: classes/fields/class.field-related-posts.php:263
+msgid "Post Types"
+msgstr "Типы записей"
+
+#: classes/controller/class.settings.php:287
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: classes/controller/class.settings.php:283
+msgid "Add Sub field"
+msgstr "Добавить дополнительное поле"
+
+#: classes/controller/class.settings.php:248
+msgid "Type"
+msgstr "Тип"
+
+#: classes/controller/class.settings.php:181
+msgid "Display conditions ( Taxonomy )"
+msgstr "Условия отображения ( Таксономия )"
+
+#: classes/controller/class.settings.php:174
+msgid "Display conditions ( Profile )"
+msgstr "Условия отображения ( Профиль )"
+
+#: classes/controller/class.settings.php:167
+msgid "Display conditions ( Post )"
+msgstr "Условия отображения ( Запись )"
+
+#: classes/controller/class.settings.php:142
+msgid "Same name exists!"
+msgstr "Такое же имя существует!"
+
+#: classes/controller/class.settings.php:43
+msgid "Other fields"
+msgstr "Другие поля"
+
+#: classes/controller/class.settings.php:39
+msgid "Content fields"
+msgstr "Поля для содержимого"
+
+#: classes/controller/class.settings.php:35
+msgid "Select fields"
+msgstr "Поля для выбора"
+
+#: classes/controller/class.settings.php:31
+msgid "Basic fields"
+msgstr "Основные поля"
+
+#: classes/controller/class.profile.php:43
+#: classes/controller/class.settings.php:161
+msgid "Custom Fields"
+msgstr "Произвольные поля"
+
+#: classes/controller/class.controller-base.php:51
+msgid "File setting"
+msgstr "Настройка файла"
+
+#: classes/controller/class.controller-base.php:50
+msgid "Image setting"
+msgstr "Настройка изображения"

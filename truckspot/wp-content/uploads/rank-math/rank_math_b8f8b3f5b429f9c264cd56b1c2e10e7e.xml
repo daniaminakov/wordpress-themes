@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//truckspotlogistics.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://truckspotlogistics.com/blog/</loc>
+		<lastmod>2021-09-15T10:53:17+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/</loc>
+		<lastmod>2021-09-23T11:42:53+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/vehicle-shipping-quote/</loc>
+		<lastmod>2021-08-23T23:18:04+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/privacy-policy/</loc>
+		<lastmod>2021-08-20T07:56:42+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/our-services/</loc>
+		<lastmod>2021-08-16T21:31:31+02:00</lastmod>
+	</url>
+</urlset>

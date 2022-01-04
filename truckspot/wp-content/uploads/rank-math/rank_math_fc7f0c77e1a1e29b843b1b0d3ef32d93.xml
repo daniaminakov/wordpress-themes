@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//truckspotlogistics.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://truckspotlogistics.com/post-sitemap.xml</loc>
+		<lastmod>2021-09-15T12:36:52+02:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://truckspotlogistics.com/page-sitemap.xml</loc>
+		<lastmod>2021-09-23T11:42:53+02:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://truckspotlogistics.com/services-sitemap.xml</loc>
+		<lastmod>2021-09-23T02:48:52+02:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://truckspotlogistics.com/category-sitemap.xml</loc>
+		<lastmod>2021-09-15T12:36:52+02:00</lastmod>
+	</sitemap>
+</sitemapindex>

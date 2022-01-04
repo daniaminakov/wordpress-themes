@@ -1,0 +1,359 @@
+
+23-09-2021 03:52:53 [truckspotlogistics.com][info] Parent plugin start installation!
+23-09-2021 03:52:53 [truckspotlogistics.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.4
+23-09-2021 03:52:53 [truckspotlogistics.com][info] Parent plugin installation complete!
+-------------------------------
+23-09-2021 03:53:11 [truckspotlogistics.com][info] Try to create backup directory. Backup dir: (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/wio_backup)
+-------------------------------
+23-09-2021 03:53:24 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:24 [truckspotlogistics.com][info] Try to create backup directory. Backup dir: (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/wio_backup/2021/08)
+23-09-2021 03:53:24 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/car-shipping.jpg) to a remote server (server_1).
+23-09-2021 03:53:24 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:25 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/car-shipping-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:25 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:25 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/car-shipping-300x243.jpg) to a remote server (server_1).
+23-09-2021 03:53:26 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:26 [truckspotlogistics.com][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"92","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":169147,"final_size":70720,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":136705,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358406}
+23-09-2021 03:53:26 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+23-09-2021 03:53:26 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:26 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/motorcycle-shipping.jpg) to a remote server (server_1).
+23-09-2021 03:53:27 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:27 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/motorcycle-shipping-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:27 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:27 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/motorcycle-shipping-300x216.jpg) to a remote server (server_1).
+23-09-2021 03:53:28 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:28 [truckspotlogistics.com][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"95","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":178232,"final_size":71171,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":146016,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358408}
+23-09-2021 03:53:28 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+23-09-2021 03:53:28 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:28 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/boat-shipping.jpg) to a remote server (server_1).
+23-09-2021 03:53:29 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:29 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/boat-shipping-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:29 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:29 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/boat-shipping-300x243.jpg) to a remote server (server_1).
+23-09-2021 03:53:30 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:30 [truckspotlogistics.com][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"98","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":141891,"final_size":52131,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":119942,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358410}
+23-09-2021 03:53:30 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+23-09-2021 03:53:31 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:31 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/trailer-shiping.jpg) to a remote server (server_1).
+23-09-2021 03:53:32 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:32 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/trailer-shiping-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:32 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:32 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/trailer-shiping-300x243.jpg) to a remote server (server_1).
+23-09-2021 03:53:32 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:33 [truckspotlogistics.com][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"101","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":133259,"final_size":55973,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":109009,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358413}
+23-09-2021 03:53:33 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+23-09-2021 03:53:33 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:33 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/heavy-equipment-shipping.jpg) to a remote server (server_1).
+23-09-2021 03:53:34 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:34 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/heavy-equipment-shipping-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:34 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:34 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/heavy-equipment-shipping-300x243.jpg) to a remote server (server_1).
+23-09-2021 03:53:35 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:35 [truckspotlogistics.com][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"104","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":180690,"final_size":65385,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":148519,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358415}
+23-09-2021 03:53:35 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+23-09-2021 03:53:36 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:36 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/post-img.jpg) to a remote server (server_1).
+23-09-2021 03:53:36 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:36 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/post-img-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:37 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:37 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/post-img-300x140.jpg) to a remote server (server_1).
+23-09-2021 03:53:37 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:37 [truckspotlogistics.com][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"108","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":206577,"final_size":70533,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":188668,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358417}
+23-09-2021 03:53:37 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+23-09-2021 03:53:59 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:53:59 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/article.jpg) to a remote server (server_1).
+23-09-2021 03:53:59 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:53:59 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/article-150x150.jpg) to a remote server (server_1).
+23-09-2021 03:53:59 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:00 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/article-300x195.jpg) to a remote server (server_1).
+23-09-2021 03:54:00 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:00 [truckspotlogistics.com][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"110","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":115468,"final_size":47444,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":94114,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358440}
+23-09-2021 03:54:00 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+23-09-2021 03:54:00 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:00 [truckspotlogistics.com][info] Try to create backup directory. Backup dir: (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/wio_backup/2021/09)
+23-09-2021 03:54:00 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/logistic-img.png) to a remote server (server_1).
+23-09-2021 03:54:01 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:02 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/logistic-img-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:02 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:02 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/logistic-img-256x300.png) to a remote server (server_1).
+23-09-2021 03:54:03 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:03 [truckspotlogistics.com][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"145","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":600433,"final_size":163505,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":437347,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358443}
+23-09-2021 03:54:03 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+23-09-2021 03:54:04 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:04 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/author1.png) to a remote server (server_1).
+23-09-2021 03:54:04 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:05 [truckspotlogistics.com][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"178","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":12974,"final_size":5465,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":12974,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358445}
+23-09-2021 03:54:05 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+23-09-2021 03:54:05 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:05 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/author2.png) to a remote server (server_1).
+23-09-2021 03:54:05 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:06 [truckspotlogistics.com][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"179","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":14659,"final_size":5871,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":14659,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358446}
+23-09-2021 03:54:06 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+23-09-2021 03:54:06 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:06 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/author3.png) to a remote server (server_1).
+23-09-2021 03:54:07 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:07 [truckspotlogistics.com][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"180","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":16412,"final_size":6536,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":16412,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358447}
+23-09-2021 03:54:07 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+23-09-2021 03:54:07 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:07 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/article2.png) to a remote server (server_1).
+23-09-2021 03:54:08 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:08 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/article2-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:08 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:08 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/article2-300x195.png) to a remote server (server_1).
+23-09-2021 03:54:09 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:09 [truckspotlogistics.com][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"217","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":231657,"final_size":83648,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":121464,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358449}
+23-09-2021 03:54:09 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+23-09-2021 03:54:10 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:10 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/article3.png) to a remote server (server_1).
+23-09-2021 03:54:10 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:11 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/article3-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:11 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:11 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/article3-300x195.png) to a remote server (server_1).
+23-09-2021 03:54:12 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:12 [truckspotlogistics.com][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"236","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":287149,"final_size":91798,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":153494,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358452}
+23-09-2021 03:54:12 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+23-09-2021 03:54:19 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:19 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/article4.png) to a remote server (server_1).
+23-09-2021 03:54:19 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:20 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/article4-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:20 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:20 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/article4-300x195.png) to a remote server (server_1).
+23-09-2021 03:54:21 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:21 [truckspotlogistics.com][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"246","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":341272,"final_size":113219,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":177640,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358461}
+23-09-2021 03:54:21 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+23-09-2021 03:54:32 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:32 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/popular-article.png) to a remote server (server_1).
+23-09-2021 03:54:32 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:33 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/popular-article-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:33 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:33 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/popular-article-300x300.png) to a remote server (server_1).
+23-09-2021 03:54:34 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:34 [truckspotlogistics.com][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"250","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":448684,"final_size":135147,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":252303,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358474}
+23-09-2021 03:54:34 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+23-09-2021 03:54:35 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:35 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/popular-article2.png) to a remote server (server_1).
+23-09-2021 03:54:36 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:36 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/popular-article2-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:37 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:37 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/popular-article2-300x300.png) to a remote server (server_1).
+23-09-2021 03:54:37 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:38 [truckspotlogistics.com][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"252","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":421706,"final_size":132491,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":231527,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358478}
+23-09-2021 03:54:38 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+23-09-2021 03:54:38 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:38 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/popular-article3.png) to a remote server (server_1).
+23-09-2021 03:54:39 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:39 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/popular-article3-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:39 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:39 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/popular-article3-300x300.png) to a remote server (server_1).
+23-09-2021 03:54:40 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:40 [truckspotlogistics.com][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"253","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":369546,"final_size":131657,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":198567,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358480}
+23-09-2021 03:54:40 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+23-09-2021 03:54:41 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:42 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/pexels-photo-164634.jpeg) to a remote server (server_1).
+23-09-2021 03:54:43 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:43 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/pexels-photo-164634-150x150.jpeg) to a remote server (server_1).
+23-09-2021 03:54:44 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:44 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/pexels-photo-164634-300x225.jpeg) to a remote server (server_1).
+23-09-2021 03:54:44 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:44 [truckspotlogistics.com][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"260","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":411105,"final_size":404903,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":383767,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358484}
+23-09-2021 03:54:44 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+23-09-2021 03:54:56 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:56 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/car-transport.png) to a remote server (server_1).
+23-09-2021 03:54:56 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:56 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/car-transport-150x150.png) to a remote server (server_1).
+23-09-2021 03:54:57 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:57 [truckspotlogistics.com][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"273","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":138357,"final_size":40510,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":96510,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358497}
+23-09-2021 03:54:57 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+23-09-2021 03:54:58 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:54:58 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/overseas.png) to a remote server (server_1).
+23-09-2021 03:54:58 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:54:58 [truckspotlogistics.com][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"281","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1568,"final_size":928,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":0,\"original_main_size\":1568,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358498}
+23-09-2021 03:54:58 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+23-09-2021 03:55:29 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:29 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent1.png) to a remote server (server_1).
+23-09-2021 03:55:30 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:30 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent1-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:30 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:31 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent1-300x195.png) to a remote server (server_1).
+23-09-2021 03:55:31 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:31 [truckspotlogistics.com][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"288","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":329651,"final_size":108603,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":176306,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358531}
+23-09-2021 03:55:31 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+23-09-2021 03:55:32 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:32 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent2.png) to a remote server (server_1).
+23-09-2021 03:55:32 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:33 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent2-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:33 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:33 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent2-300x195.png) to a remote server (server_1).
+23-09-2021 03:55:34 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:34 [truckspotlogistics.com][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"290","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":315594,"final_size":98286,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":170069,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358534}
+23-09-2021 03:55:34 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+23-09-2021 03:55:37 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:37 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent3.png) to a remote server (server_1).
+23-09-2021 03:55:38 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:38 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent3-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:39 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:39 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/recent3-300x195.png) to a remote server (server_1).
+23-09-2021 03:55:39 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:40 [truckspotlogistics.com][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"291","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":309743,"final_size":105532,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":164278,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358540}
+23-09-2021 03:55:40 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+23-09-2021 03:55:40 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:40 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/We-Can-Offer.png) to a remote server (server_1).
+23-09-2021 03:55:41 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:41 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/We-Can-Offer-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:42 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:42 [truckspotlogistics.com][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"301","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":149264,"final_size":45477,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":105511,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358542}
+23-09-2021 03:55:42 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+23-09-2021 03:55:45 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:45 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/Trailer-Transport-We-Can-Offer.png) to a remote server (server_1).
+23-09-2021 03:55:45 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:45 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/Trailer-Transport-We-Can-Offer-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:46 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:46 [truckspotlogistics.com][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"309","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":105320,"final_size":35762,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":73497,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358546}
+23-09-2021 03:55:46 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+23-09-2021 03:55:47 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:47 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/Boat-Hauling-We-Can-Offer.png) to a remote server (server_1).
+23-09-2021 03:55:47 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:48 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/Boat-Hauling-We-Can-Offer-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:48 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:48 [truckspotlogistics.com][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"329","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":105446,"final_size":31052,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":74843,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358548}
+23-09-2021 03:55:48 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+23-09-2021 03:55:49 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:49 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/Heavy-Hauling-We-Can-Offer.png) to a remote server (server_1).
+23-09-2021 03:55:50 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:50 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/08/Heavy-Hauling-We-Can-Offer-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:50 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:50 [truckspotlogistics.com][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"331","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":139386,"final_size":40478,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":98763,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358550}
+23-09-2021 03:55:51 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+23-09-2021 03:55:56 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:56 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/Logo.png) to a remote server (server_1).
+23-09-2021 03:55:56 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:56 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/Logo-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:57 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:57 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/Logo-300x288.png) to a remote server (server_1).
+23-09-2021 03:55:57 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:57 [truckspotlogistics.com][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"346","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":51498,"final_size":20090,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27133,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358557}
+23-09-2021 03:55:57 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+23-09-2021 03:55:57 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:55:58 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/Logo_invert_darkblue_back.png) to a remote server (server_1).
+23-09-2021 03:55:58 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:58 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/Logo_invert_darkblue_back-150x150.png) to a remote server (server_1).
+23-09-2021 03:55:58 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:59 [truckspotlogistics.com][info] Preparing to upload a file (/var/www/vhosts/truckspotlogistics.com/httpdocs/wp-content/uploads/2021/09/Logo_invert_darkblue_back-300x287.png) to a remote server (server_1).
+23-09-2021 03:55:59 [truckspotlogistics.com][info] File successfully uploaded to remote server (server_1).
+23-09-2021 03:55:59 [truckspotlogistics.com][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"347","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":68283,"final_size":30145,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":38315,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632358559}
+23-09-2021 03:55:59 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+23-09-2021 03:58:31 [truckspotlogistics.com][info] Start bulk optimization process! Scope: media-library
+23-09-2021 03:58:31 [truckspotlogistics.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+25-09-2021 11:26:29 [truckspot.com][info] START auto optimize cron job. Attachment: 378
+25-09-2021 11:26:29 [truckspot.com][info] Preparing to upload a file (D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Car-Shipping-Service.svg) to a remote server (server_1).
+25-09-2021 11:26:31 [truckspot.com][error] Error to optimize attachment (ID: #378). Message: "Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP"
+	-> Attachment optimized? No
+	-> Should be resized? No
+	-> Original size: 592x550
+	-> Relative path: /2021/08/Car-Shipping-Service.svg
+	-> Server used: server_1
+	->  Additional sizes:
+		-> Type: thumbnail, size: 150x150, MIME type: image/svg+xml
+		-> Type: medium, size: 300x300, MIME type: image/svg+xml
+		-> Type: medium_large, size: 768x0, MIME type: image/svg+xml
+		-> Type: large, size: 1024x1024, MIME type: image/svg+xml
+		-> Type: 1536x1536, size: 1536x1536, MIME type: image/svg+xml
+		-> Type: 2048x2048, size: 2048x2048, MIME type: image/svg+xml
+
+25-09-2021 11:26:31 [truckspot.com][debug] New queue created #30, attributes values: {"server_id":null,"object_id":378,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"error","processing_level":"normal","is_backed_up":true,"original_size":0,"final_size":0,"original_mime_type":"","final_mime_type":"","extra_data":"{\"error\":\"optimization\",\"error_msg\":\"Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP\",\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632558391}
+25-09-2021 11:26:31 [truckspot.com][error] Failed to process (url: http://truckspot.com/wp-content/uploads//2021/08/Car-Shipping-Service.svg, path: D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Car-Shipping-Service.svg, quality: 90) as error was returned: Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP
+25-09-2021 11:26:31 [truckspot.com][info] END auto optimize cron job. Attachment: 378
+-------------------------------
+25-09-2021 11:26:44 [truckspot.com][info] START auto optimize cron job. Attachment: 379
+25-09-2021 11:26:44 [truckspot.com][info] Preparing to upload a file (D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Car-Shipping-Service2.svg) to a remote server (server_1).
+25-09-2021 11:26:45 [truckspot.com][error] Error to optimize attachment (ID: #379). Message: "Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP"
+	-> Attachment optimized? No
+	-> Should be resized? No
+	-> Original size: 592x550
+	-> Relative path: /2021/08/Car-Shipping-Service2.svg
+	-> Server used: server_1
+	->  Additional sizes:
+		-> Type: thumbnail, size: 150x150, MIME type: image/svg+xml
+		-> Type: medium, size: 300x300, MIME type: image/svg+xml
+		-> Type: medium_large, size: 768x0, MIME type: image/svg+xml
+		-> Type: large, size: 1024x1024, MIME type: image/svg+xml
+		-> Type: 1536x1536, size: 1536x1536, MIME type: image/svg+xml
+		-> Type: 2048x2048, size: 2048x2048, MIME type: image/svg+xml
+
+25-09-2021 11:26:45 [truckspot.com][debug] New queue created #31, attributes values: {"server_id":null,"object_id":379,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"error","processing_level":"normal","is_backed_up":true,"original_size":0,"final_size":0,"original_mime_type":"","final_mime_type":"","extra_data":"{\"error\":\"optimization\",\"error_msg\":\"Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP\",\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632558405}
+25-09-2021 11:26:45 [truckspot.com][error] Failed to process (url: http://truckspot.com/wp-content/uploads//2021/08/Car-Shipping-Service2.svg, path: D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Car-Shipping-Service2.svg, quality: 90) as error was returned: Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP
+25-09-2021 11:26:45 [truckspot.com][info] END auto optimize cron job. Attachment: 379
+-------------------------------
+25-09-2021 11:29:43 [truckspot.com][info] START auto optimize cron job. Attachment: 380
+25-09-2021 11:29:43 [truckspot.com][info] Preparing to upload a file (D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Motorcycle-Shipping-Service2.svg) to a remote server (server_1).
+25-09-2021 11:29:44 [truckspot.com][error] Error to optimize attachment (ID: #380). Message: "Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP"
+	-> Attachment optimized? No
+	-> Should be resized? No
+	-> Original size: 592x550
+	-> Relative path: /2021/08/Motorcycle-Shipping-Service2.svg
+	-> Server used: server_1
+	->  Additional sizes:
+		-> Type: thumbnail, size: 150x150, MIME type: image/svg+xml
+		-> Type: medium, size: 300x300, MIME type: image/svg+xml
+		-> Type: medium_large, size: 768x0, MIME type: image/svg+xml
+		-> Type: large, size: 1024x1024, MIME type: image/svg+xml
+		-> Type: 1536x1536, size: 1536x1536, MIME type: image/svg+xml
+		-> Type: 2048x2048, size: 2048x2048, MIME type: image/svg+xml
+
+25-09-2021 11:29:44 [truckspot.com][debug] New queue created #32, attributes values: {"server_id":null,"object_id":380,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"error","processing_level":"normal","is_backed_up":true,"original_size":0,"final_size":0,"original_mime_type":"","final_mime_type":"","extra_data":"{\"error\":\"optimization\",\"error_msg\":\"Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP\",\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632558584}
+25-09-2021 11:29:44 [truckspot.com][error] Failed to process (url: http://truckspot.com/wp-content/uploads//2021/08/Motorcycle-Shipping-Service2.svg, path: D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Motorcycle-Shipping-Service2.svg, quality: 90) as error was returned: Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP
+25-09-2021 11:29:44 [truckspot.com][info] END auto optimize cron job. Attachment: 380
+-------------------------------
+25-09-2021 11:30:40 [truckspot.com][info] START auto optimize cron job. Attachment: 381
+25-09-2021 11:30:40 [truckspot.com][info] Preparing to upload a file (D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Boat-Hauling-Service2.svg) to a remote server (server_1).
+25-09-2021 11:30:41 [truckspot.com][error] Error to optimize attachment (ID: #381). Message: "Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP"
+	-> Attachment optimized? No
+	-> Should be resized? No
+	-> Original size: 592x550
+	-> Relative path: /2021/08/Boat-Hauling-Service2.svg
+	-> Server used: server_1
+	->  Additional sizes:
+		-> Type: thumbnail, size: 150x150, MIME type: image/svg+xml
+		-> Type: medium, size: 300x300, MIME type: image/svg+xml
+		-> Type: medium_large, size: 768x0, MIME type: image/svg+xml
+		-> Type: large, size: 1024x1024, MIME type: image/svg+xml
+		-> Type: 1536x1536, size: 1536x1536, MIME type: image/svg+xml
+		-> Type: 2048x2048, size: 2048x2048, MIME type: image/svg+xml
+
+25-09-2021 11:30:41 [truckspot.com][debug] New queue created #33, attributes values: {"server_id":null,"object_id":381,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"error","processing_level":"normal","is_backed_up":true,"original_size":0,"final_size":0,"original_mime_type":"","final_mime_type":"","extra_data":"{\"error\":\"optimization\",\"error_msg\":\"Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP\",\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1632558641}
+25-09-2021 11:30:41 [truckspot.com][error] Failed to process (url: http://truckspot.com/wp-content/uploads//2021/08/Boat-Hauling-Service2.svg, path: D:/OSPanel/domains/truckspot.com/wp-content/uploads/2021/08/Boat-Hauling-Service2.svg, quality: 90) as error was returned: Unauthorized extension. Allowed are : JPG, PNG, GIF, BMP, TIFF, WEBP
+25-09-2021 11:30:41 [truckspot.com][info] END auto optimize cron job. Attachment: 381
+-------------------------------

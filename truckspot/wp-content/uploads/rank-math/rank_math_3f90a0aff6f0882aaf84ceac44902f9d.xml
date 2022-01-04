@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//truckspotlogistics.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://truckspotlogistics.com/blog/category/cars-and-trucks/</loc>
+		<lastmod>2021-09-15T12:06:03+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/blog/category/shipping-to-guides/</loc>
+		<lastmod>2021-09-15T12:36:52+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/blog/category/auction-shipping/</loc>
+		<lastmod>2021-09-15T12:36:52+02:00</lastmod>
+	</url>
+	<url>
+		<loc>https://truckspotlogistics.com/blog/category/motorcycles-atv-utv/</loc>
+		<lastmod>2021-09-15T10:53:01+02:00</lastmod>
+	</url>
+</urlset>
